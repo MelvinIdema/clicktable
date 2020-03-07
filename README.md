@@ -35,6 +35,8 @@ Now all you need to do is add the data-href attribute to your table rows:
   </tr>
 </table>
 ```
+Done! Your table rows now act like a normal anchor link:
+![Demonstration](https://i.imgur.com/iPNbsPu.gif)
 
 ## Options
 
