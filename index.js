@@ -29,7 +29,8 @@ class Clicktable {
       if(!styleOptions.includes(options.style)) throw new Error(`${options.style} is not a valid style option.`);
 
       if(options.style == "default") {
-        addCSSRule(styleSheet, "tr[data-href]:hover", "color: #0000EE; text-decoration: underline; cursor: pointer;", 1);
+        addCSSRule(styleSheet, "tr[data-href]", "color: inherit;", 1);
+        addCSSRule(styleSheet, "tr[data-href]:hover", "color: #0000EE; text-decoration: underline; cursor: pointer;", 2);
       }
     }
 
