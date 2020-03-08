@@ -1,11 +1,12 @@
+<p align="center"><a href="https://clicktable.dev/"><img src="assets/img/logo.png"></a></p>
+
 <p align="center">
-
-# Clicktable  <br>
-[![Generic badge](https://img.shields.io/badge/VERSION-1.1-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/LICENSE-MIT-green.svg)](https://shields.io/)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
-
+  <a href="https://clicktable.dev"><img src="https://img.shields.io/badge/version-1.1-blue.svg"></a>
+  <a href="https://clicktable.dev"><img src="https://img.shields.io/badge/license-MIT-green.svg"></a>
+  <a href="https:/clicktable.dev"><img src="https://img.shields.io/github/issues/MelvinIdema/Clicktable.svg"></a>
 </p>
+
+Clicktable (/klɪktəbl/ like clickable) is a lightweight module to help you easily make your table rows act like anchor links.
 
 ## Installation
 First update NPM and install clicktable in your dependencies:
